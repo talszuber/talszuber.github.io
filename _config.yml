@@ -59,7 +59,7 @@ plugins:
 
 author:
   name   : "Tal Szuber"
-  avatar : "/assets/images/bio-photo.jpg"
+  avatar : "/assets/images/bio-photo.png"
   bio    : "Gamedev quality and ux, with occasional theoretical remarks."
   links:
     - label: "Website"
